@@ -318,11 +318,11 @@ Contains item-level data:
 
 ## 👤 Author
 
-**Disha Mathankar**
+**Shreen Bopche**
 
-* GitHub: [@Dishaa01423](https://github.com/Dishaa01423)
-* LinkedIn: [Disha Mathankar](https://www.linkedin.com/in/disha-mathankar-159048282)
-* Email: [disha01423@gmail.com](mailto:disha01423@gmail.com)
+* GitHub: [@Shreenbopche](https://github.com/Shreenbopche)
+* LinkedIn: [Shreen Bopche](https://www.linkedin.com/in/shreen-bopche-6b3129248)
+* Email: [shreenbopche4373@gmail.com](mailto:shreenbopche4373@gmail.com)
 
 ---
 
@@ -338,7 +338,7 @@ Contains item-level data:
 ## 📞 Support
 
 * Open an issue
-* Email: [disha01423@gmail.com](mailto:disha01423@gmail.com)
+* Email: [shreenbopche4373@gmail.com](mailto:shreenbopche4373@gmail.com)
 * Connect on LinkedIn
 
 ---
@@ -346,4 +346,3 @@ Contains item-level data:
 ⭐ **If you find this project helpful, please give it a star!** ⭐
 
 ---
-# Intelligent-Invoice-ORC-System
